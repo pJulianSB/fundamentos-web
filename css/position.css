@@ -1,0 +1,25 @@
+.container {
+  background-color: antiquewhite;
+  margin: 15px 20px;
+}
+/* 
+  position: static;
+  position: relative;
+  position: absolute;
+  position: fixed;
+  */
+
+.boxVerde {
+  border: 1px solid green;
+  background-color: green;
+  width: 200px;
+  height: 200px;
+}
+
+.boxAmarillo {
+  border: 1px solid yellow;
+  background-color: yellow;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}

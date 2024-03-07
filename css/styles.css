@@ -1,0 +1,104 @@
+p {
+  color: red;
+}
+
+.marca {
+  color: green;
+  font-size: 20px;
+}
+
+a {
+  font-size: 20px;
+}
+
+#carro {
+  color: blue;
+}
+
+#example {
+  width: 200px;
+  height: 70px;
+  border-bottom: 2px solid red;
+}
+
+.card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 16px;
+  margin: 16px;
+  max-width: 300px;
+  background-color: #fff;
+}
+
+.card img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.card h2 {
+  font-size: 1.2rem;
+  margin-top: 8px;
+}
+
+.card p {
+  font-size: 1rem;
+  color: #666;
+  margin-top: 8px;
+}
+
+.card a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.card__btn {
+  font-size: 15px;
+  font-weight: bold;
+  border-radius: 20px;
+  background-color: blueviolet;
+}
+
+.card__btn--success {
+  background-color: green;
+}
+
+.card__btn--back {
+  background-color: grey;
+}
+
+/* card exercise styles */
+
+.fila_1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.fila_2 {
+  display: flex;
+  justify-content: center;
+}
+
+/* semantic exercise styles 
+article {
+  background-color: aqua;
+}
+
+section {
+  background-color: grey;
+}
+
+footer {
+  background-color: green;
+}
+
+main {
+  background-color: goldenrod;
+}
+
+nav {
+  background-color: honeydew;
+}
+*/
